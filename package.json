@@ -1,0 +1,12 @@
+{
+  "name": "add-request-header",
+  "version": "0.0.1",
+  "description": "Add attributes to every XHR request header",
+  "main": "index.js",
+  "author": "javascriptfield",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javascriptfield/add-reuqest-header.git"
+  },
+  "license": "MIT"
+}
